@@ -26,7 +26,7 @@ const config = {
   title: 'Facebook Thrift',
   tagline: 'A serialization and RPC framework',
   url: 'https://www.internalfb.com',
-  baseUrl: '/',
+  baseUrl: '/fbthrift/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/favicon.ico',
